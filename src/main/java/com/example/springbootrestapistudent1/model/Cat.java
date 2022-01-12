@@ -9,6 +9,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 @Entity
+//lombok
 @AllArgsConstructor
 @NoArgsConstructor
 @Table(name="Cat")
